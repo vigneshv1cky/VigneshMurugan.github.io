@@ -1,5 +1,5 @@
 title: Vignesh Murugan
 logo: assets/img/vignesh_headshot_circle.jpeg
 #description: text below image
-show_downloads: true
+show_downloads: False
 theme: jekyll-theme-minimal
