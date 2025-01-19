@@ -1,49 +1,86 @@
-# Data Scientist
-
-#### Technical Skills:
-## Languages: Python, R, SQL, JavaScript
-## Tools & Technologies: Azure Data Factory (ADF), Azure Databricks, Azure HDInsight, Apache Spark, Spark, Hive, Tableau, Git/GitHub, Docker, MySQL, PostgreSQL, MongoDB, TensorFlow, Keras, Flask, Django.
-## Expertise: Machine Learning (Regression, Classification, Clustering, Neural Networks, Deep Learning), Big Data, Computer Vision, Time Series Analysis
 
 
-## Education							       		
-- M.S., Data Science and Analytics	| The University of Oklahoma at Norman,Oklahoma 
-- B.S., Computer Science | Visveswarayya Technological university (_June 2023_)
+ I am a passionate **Data Scientist** with expertise in **machine learning**, **big data**, and **deep learning**. With a Master's in Data Science and Analytics and hands-on experience in cutting-edge projects, I aim to drive impactful decisions through data-driven insights. Here's an overview of my technical skills, education, work experience, and notable projects.
 
-## Work Experience
+---
 
-**Research Assistant @ Unversity of oklahoma Health Science Center (_December 2020 - Present_)**
+## 💻 Technical Skills
+
+### Languages
+- **Python**, **R**, **SQL**, **JavaScript**
+
+### Tools & Technologies
+- **Azure Data Factory (ADF)**, **Azure Databricks**, **Azure HDInsight**, **Apache Spark**, **Hive**, **Tableau**, **Git/GitHub**, **Docker**, **MySQL**, **PostgreSQL**, **MongoDB**, **TensorFlow**, **Keras**, **Flask**, **Django**
+
+### Expertise
+- Machine Learning: Regression, Classification, Clustering, Neural Networks, Deep Learning
+- Big Data: Apache Spark, Hadoop, Azure HDInsight
+- Specializations: Computer Vision, Time Series Analysis
+
+---
+
+## 🎓 Education
+
+- **Master of Science in Data Science and Analytics**  
+  The University of Oklahoma, Norman, OK
+
+- **Bachelor of Science in Computer Science**  
+  Visveswarayya Technological University (_June 2023_)
+
+---
+
+## 💼 Work Experience
+
+### **Research Assistant**  
+#### University of Oklahoma Health Science Center  
+**_December 2020 – Present_**
 - Supported informatics activities of the Biomedical and Behavioral Methodology Core.
-- Assisted with REDCap projects for studies conducted across the entire HSC enterprise, including database development and management, data extraction, and data reporting.
-- Supported projects utilizing the Clinical Research Data Warehouse (CRDW), receiving hands-on training in database management and security practices and created coding pipelines for data analysis and transport.
-- Designed and constructed research data capture systems within REDCap to support primary data collection.
-- Participated in enterprise data warehouse ETL (extract, transform, and load) activities.
-- Became familiar with clinical data ethics and security practices, and the structure and practice of electronic health record collection, storage, and management.
-- Understood common clinical study designs and clinical research data warehouse requests.
+- Developed and managed **REDCap** databases for primary data collection and analysis.
+- Conducted **ETL** processes for the Clinical Research Data Warehouse (CRDW), ensuring data integrity and security.
+- Gained expertise in clinical data ethics, security practices, and electronic health record management.
+- Designed coding pipelines for data analysis, reporting, and visualization.
 
-**Research Assistant @ Breathonix (_Jan 2024 - May 2024_)**
-- Led Research of multi-omics data at Breathonix, a medical device startup at the Center for Quantum Research and Technology (CQRT) at OU, using human breath to detect cancer, COVID, or RSV through metabolites and PTR-MS (Proton Transfer Reaction Mass Spectrometry), developing ML/AI-driven workflows to identify novel biomarkers with 98% accuracy for disease detection.
-- Created predictive machine learning models and algorithms, enhancing patient outcomes by over 50%.
-- Directed OUHSC data collection and collaborated with doctors, data engineers, and healthcare professionals, ensuring data integrity and accessibility, improving clinical trial results by 30%. Developed data visualizations for complex datasets, providing insights for senior management and clinical stakeholders, resulting in a 25% increase in decision-making efficiency.
-- Data manipulation, hypothesis testing, root cause analysis, forecasting and model refinement were carried out, reducing AI bias by 20% and improving reliability. Innovated data processing pipelines, enabling rapid analysis of disease markers, decreasing analysis time by 40% and facilitating real-time decision making.
+### **Research Assistant**  
+#### Breathonix (Medical Device Startup)  
+**_Jan 2024 – May 2024_**
+- Led **multi-omics data research** to identify novel biomarkers for disease detection using human breath analysis.
+- Developed **ML/AI-driven workflows** with 98% accuracy in cancer, COVID, and RSV detection.
+- Created predictive machine learning models, enhancing patient outcomes by **50%**.
+- Innovated data pipelines, reducing analysis time by **40%** and enabling real-time decision-making.
+- Designed impactful **data visualizations** to improve clinical stakeholder decision-making efficiency by **25%**.
 
+### **Machine Learning Intern**  
+#### Thaniya Technologies  
+**_Aug 2022 – September 2022_**
+- Utilized **Convolutional Neural Networks (CNNs)** for wild animal image classification, achieving **92% accuracy**.
+- Processed over **10,000 images** and optimized model performance with transfer learning and hyperparameter tuning.
+- Enhanced computation time by **50%** using GPU acceleration.
 
-**Machine Learning Intern @ Thaniya Technologies (_Aug 2022 - September 2022_)**
-- I worked on a project utilizing Convolutional Neural Networks (CNNs) to predict and classify images of wild animals, achieving an accuracy of over 92%. The objective was to develop a robust image classification model capable of identifying more than 30 distinct species based on their unique visual features. 
-- By applying advanced deep learning techniques such as transfer learning and hyperparameter tuning, I optimized the model’s performance, reducing classification errors by 15%. 
-- This hands-on experience included designing and implementing CNN architectures, preprocessing over 10,000 images, and training the model using GPUs, which accelerated computation time by 50%. This project significantly strengthened my expertise in computer vision and machine learning applications.
+---
 
-Projects:
+## 🌟 Notable Projects
 
+### **📈 Stock Price Prediction (ARIMA, Prophet, LSTM)**
+- Analyzed Apple Inc. stock data from **2010 to 2024** using historical price data.
+- Developed predictive models (**ARIMA**, **Prophet**, **LSTM**) and evaluated them using **RMSE**.
+- Improved prediction accuracy by **30%** with ARIMA for linear patterns and leveraged LSTM for complex relationships.
+- Demonstrated the effectiveness of **Prophet** in handling seasonal data trends.
 
-**Stock Price Prediction using ARIMA, Prophet, and LSTM**
-- Compiled and pre-processed historical stock price data for Apple Inc. (AAPL) from Yahoo Finance, covering January 2010 to January 2024. Conducted pre-processing, handling missing values, scaling and feature engineering, calculating daily returns, percentage change, and moving averages. Segmented data into training and testing sets, training data spanned until June 2023, and testing covered June 2023 to January 2024.
-- Refined and deployed ARIMA, Prophet, and LSTM models for stock price prediction. Evaluated each model using Root Mean Square Error (RMSE), with ARIMA improving prediction accuracy by 30% compared to baseline models. Analysis highlighted ARIMA's linear pattern suitability, LSTM's ability to capture complex relationships, and Prophet's robustness in handling seasonality.
+### **🏥 Patient Assistance Network (PAN)**
+- Designed a relational database system for efficient tracking of clients, volunteers, employees, and donors.
+- Created optimized **stored procedures** for data automation and error handling.
+- Implemented a **Java-based interface** for seamless integration of database operations.
+- Utilized **ER diagrams** to model complex relationships and ensure database scalability.
 
-**Patient Assistance Network (PAN) (SQL, Java, Transact-SQL, Database Design, Stored Procedures)**
-- Designed and implemented a relational database system for the Patient Assistance Network (PAN), enabling efficient tracking and management of clients, volunteers, employees, and donors.
-- Developed a comprehensive data model using ER diagrams and implemented the database schema using SQL.
-- Created and optimized stored procedures to streamline data management processes, including task automation and robust error handling.
-- Designed Java-based solutions to execute complex database queries and seamlessly integrate database operations into application workflows.
+---
 
+## 📚 Explore More
+Feel free to explore my projects and repositories to see my work in action. Each project reflects my dedication to problem-solving, innovation, and collaboration.
 
+---
+
+## 📬 Connect with Me
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/vignesh-murugan-791347103/)
+- **Email**: [Your Email Address](mailto:murugan.datum@gmail.com)
+
+Thank you for visiting my portfolio! 🌟
