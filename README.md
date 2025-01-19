@@ -80,7 +80,7 @@ Feel free to explore my projects and repositories to see my work in action. Each
 ---
 
 ## 📬 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/vignesh-murugan-791347103/)
-- **Email**: [Your Email Address](mailto:murugan.datum@gmail.com)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/vignesh-murugan-791347103/)
+- **Email**: [murugan.datum@gmail.com](mailto:murugan.datum@gmail.com)
 
 Thank you for visiting my portfolio! 🌟
