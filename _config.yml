@@ -3,3 +3,11 @@ logo: assets/img/circular_image.png
 #description: text below image
 show_downloads: False
 theme: jekyll-theme-minimal
+
+contact_info:
+  email: murugan.datum@gmail.com
+  social_links:
+  - platform: github
+    url: https://github.com/vigneshmurugan
+  - platform: linkedin
+    url: https://www.linkedin.com/in/vignesh-murugan-791347103/
