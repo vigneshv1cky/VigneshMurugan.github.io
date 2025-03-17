@@ -6,16 +6,7 @@
 
 ## 💻 Technical Skills
 
-### Languages
-- **Python**, **R**, **SQL**, **JavaScript**
-
-### Tools & Technologies
-- **Azure Data Factory (ADF)**, **Azure Databricks**, **Azure HDInsight**, **Apache Spark**, **Hive**, **Tableau**, **Git/GitHub**, **Docker**, **MySQL**, **PostgreSQL**, **MongoDB**, **TensorFlow**, **Keras**, **Flask**, **Django**
-
-### Expertise
-- Machine Learning: Regression, Classification, Clustering, Neural Networks, Deep Learning
-- Big Data: Apache Spark, Hadoop, Azure HDInsight
-- Specializations: Computer Vision, Time Series Analysis
+Python, R, SQL, JavaScript, HTML, CSS, Azure Databricks, Azure Data Factory, Azure SQL Database, Delta Lake, PySpark, Tableau, PowerBI, Git/GitHub, MySQL, PostgreSQL, MongoDB, TensorFlow, PyTorch, Keras, Scikit-learn, Flask, Django, Machine Learning, Regression, Classification, Clustering, Neural Networks, Deep Learning, Big Data Analytics, Computer Vision, Time Series Analysis, Google Cloud Platform, Apache Spark, Apache Hadoop, Apache Kafka, Data Visualization, Matplotlib, Seaborn, ETL Processes, Data Warehousing, Natural Language Processing , Reinforcement Learning, Anomaly Detection, Object-Oriented Programming
 
 ---
 
@@ -33,32 +24,28 @@
 
 ### **Research Assistant**  
 #### University of Oklahoma Health Science Center  
-**_December 2020 – Present_**
-- Supported informatics activities of the Biomedical and Behavioral Methodology Core.
-- Developed and managed **REDCap** databases for primary data collection and analysis.
-- Conducted **ETL** processes for the Clinical Research Data Warehouse (CRDW), ensuring data integrity and security.
-- Gained expertise in clinical data ethics, security practices, and electronic health record management.
-- Designed coding pipelines for data analysis, reporting, and visualization.
+**_January 2024 – Present_**
+- Data Systems Design: Developed and implemented robust REDCap-based data capture systems, streamlining enterprise-wide data collection.
+- Innovative Biomarker Research: Spearheaded multi-omics projects at Breathonix, creating ML/AI workflows that achieved 98% accuracy in detecting biomarkers for cancer, COVID, and RSV.
+- Predictive Analytics: Engineered predictive models that boosted patient outcomes by over 50% and improved clinical trial efficiency by 30% through rigorous data integrity and cross-functional collaboration.
+- Data Visualization & Analysis: Designed dynamic visualizations that enhanced decision-making efficiency by 25% while refining analytical models to reduce AI bias by 20%.
 
-### **Research Assistant**  
-#### Breathonix (Medical Device Startup)  
-**_Jan 2024 – May 2024_**
-- Led **multi-omics data research** to identify novel biomarkers for disease detection using human breath analysis.
-- Developed **ML/AI-driven workflows** with 98% accuracy in cancer, COVID, and RSV detection.
-- Created predictive machine learning models, enhancing patient outcomes by **50%**.
-- Innovated data pipelines, reducing analysis time by **40%** and enabling real-time decision-making.
-- Designed impactful **data visualizations** to improve clinical stakeholder decision-making efficiency by **25%**.
-
-### **Machine Learning Intern**  
+### **Data Science Intern**  
 #### Thaniya Technologies  
-**_Aug 2022 – September 2022_**
-- Utilized **Convolutional Neural Networks (CNNs)** for wild animal image classification, achieving **92% accuracy**.
-- Processed over **10,000 images** and optimized model performance with transfer learning and hyperparameter tuning.
-- Enhanced computation time by **50%** using GPU acceleration.
+**_May 2019 – May 2023_**
+- Image Classification Models: Developed and optimized CNN architectures to classify wild animal images, achieving over 92% accuracy and reducing classification errors by 15% through transfer learning and hyperparameter tuning.
+- Large-Scale Data Processing: Processed and prepared over 10,000 images, integrating advanced deep learning models with OpenCV for real-time detection and classification.
+
 
 ---
 
 ## 🌟 Notable Projects
+
+
+### ** Formula 1 Analytics **
+- Architected an end-to-end data pipeline to ingest, transform, and store structured and semi-structured data, leveraging Delta Lake for ACID transactions and schema evolution.
+- Developed advanced data transformation workflows that enhanced query performance and ensured robust data governance.
+- Automated workflows using Databricks Jobs and ADF pipelines, integrating parameterized notebooks to enable real-time Power BI reporting for driver and constructor analytics.
 
 ### **📈 Stock Price Prediction (ARIMA, Prophet, LSTM)**
 - Analyzed Apple Inc. stock data from **2010 to 2024** using historical price data.
@@ -71,6 +58,14 @@
 - Created optimized **stored procedures** for data automation and error handling.
 - Implemented a **Java-based interface** for seamless integration of database operations.
 - Utilized **ER diagrams** to model complex relationships and ensure database scalability.
+
+---
+
+## CERTIFICATIONS & AWARDS
+
+- Microsoft Certified Azure Data Scientist Associate – Demonstrates deep expertise in leveraging Azure’s ecosystem for transformative data solutions.
+- Google Data Analytics Certification - Validates advanced proficiency in data analytics methodologies and modern tools to derive actionable insights.
+
 
 ---
 
