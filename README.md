@@ -42,7 +42,7 @@ Python, R, SQL, JavaScript, HTML, CSS, Azure Databricks, Azure Data Factory, Azu
 ## 🌟 Notable Projects
 
 
-### ** Formula 1 Analytics **
+### **Formula 1 Analytics**
 - Architected an end-to-end data pipeline to ingest, transform, and store structured and semi-structured data, leveraging Delta Lake for ACID transactions and schema evolution.
 - Developed advanced data transformation workflows that enhanced query performance and ensured robust data governance.
 - Automated workflows using Databricks Jobs and ADF pipelines, integrating parameterized notebooks to enable real-time Power BI reporting for driver and constructor analytics.
